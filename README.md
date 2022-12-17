@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fakiri Ismail</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">, I'm Fakiri Ismail</h1>
 <h3 align="center">A ✨Python Developer✨ passionate Software Engineer, AI and Big Data</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59510748/208265594-28038028-1819-40f2-8fe3-80111082de78.gif">
@@ -62,10 +62,10 @@
   </a>
  </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fakiri-ismail&theme=yeblu)](https://git.io/streak-stats)
-
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a ***Python Developer, Data Scientist and Data Analyst***
-- 🌱 I’m currently learning **Python Unit Testing**
-- 
-
-
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Fakiri-ismail&theme=yeblu" alt="Fakiri-ismail"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fakiri-ismail&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="Fakiri-ismail"/>
+</p>
+</br></br></br></br></br></br></br></br></br>
+  
+- 🌱 I’m currently learning **...**
