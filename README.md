@@ -64,6 +64,8 @@
 
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Fakiri-ismail&theme=yeblu" alt="Fakiri-ismail"/>
+</p>
+<p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fakiri-ismail&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="Fakiri-ismail"/>
 </p>
 </br></br></br></br></br></br></br></br></br>
