@@ -30,6 +30,9 @@
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/59510748/208266791-31264cfd-46e6-4cc2-a510-878c7abfa444.png" alt="FLASK" width="40" height="40"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/59510748/210179800-1665cf82-66c2-4043-9e39-281664de70c3.png" alt="FASTAPI" width="40" height="40"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/59510748/208266809-9e33f57b-261c-4a39-99f7-20efbef0ec0f.png" alt="DJANGO" width="40" height="40"/>
   </a>
@@ -61,6 +64,7 @@
     <img src="https://user-images.githubusercontent.com/59510748/208267203-dcfe62c1-f2cc-413b-b063-11a8bcea9626.png" alt="APACHE SPARK" width="60" height="40"/>
   </a>
  </p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Fakiri-ismail&theme=yeblu" alt="Fakiri-ismail"/>
