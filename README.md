@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59510748/208265594-28038028-1819-40f2-8fe3-80111082de78.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fakiri-ismail&label=Profile%20views&color=0e75b6&style=flat" alt="Fakiri-ismail" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ismail-fakiri/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail fakiri" height="30" width="40" /> </a>
