@@ -7,7 +7,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail fakiri" height="20" width="30"/>
   </a>
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Fakiri-ismail&theme=yeblu" alt="Fakiri-ismail"/>
-</p>
